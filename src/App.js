@@ -83,6 +83,7 @@ function App() {
 
 
   return (
+    <div>
     <Container className="p-5">
     <ToastContainer position="bottom-center" />
     <Row>
@@ -116,7 +117,11 @@ function App() {
         </Button>
     </Col>
     </Row>
-    </Container>
+    </Container> <br/><br/>
+    <div className="devel" style={{textAlign:"center"}}>
+    Developed by Praveen Yadav
+    </div>
+    </div>
   );
 }
 
