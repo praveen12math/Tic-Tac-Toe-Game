@@ -119,7 +119,7 @@ function App() {
     </Row>
     </Container> <br/><br/>
     <div className="devel" style={{textAlign:"center"}}>
-    Developed by Praveen Yadav with React js <img className="logoimg" src="logo192.png" />
+    Developed by Praveen Yadav with React js <img className="logoimg" src="logo192.png" alt="" />
     </div>
     </div>
   );
